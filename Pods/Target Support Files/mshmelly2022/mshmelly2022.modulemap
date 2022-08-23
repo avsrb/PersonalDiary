@@ -1,0 +1,6 @@
+framework module mshmelly2022 {
+  umbrella header "mshmelly2022-umbrella.h"
+
+  export *
+  module * { export * }
+}

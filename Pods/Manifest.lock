@@ -1,0 +1,16 @@
+PODS:
+  - mshmelly2022 (0.1.5)
+
+DEPENDENCIES:
+  - mshmelly2022 (~> 0.1.5)
+
+SPEC REPOS:
+  trunk:
+    - mshmelly2022
+
+SPEC CHECKSUMS:
+  mshmelly2022: 94c878eaf41679d2bd2ce2a2c9eb89461a8d1644
+
+PODFILE CHECKSUM: e9640c3eacf872d4cad715b9b4528c756242c7cf
+
+COCOAPODS: 1.11.3
